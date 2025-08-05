@@ -1,1 +1,1 @@
-Folder for Day 2's programs and notes.
+Folder for Day 3's programs and notes.
